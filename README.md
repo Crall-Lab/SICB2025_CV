@@ -22,7 +22,7 @@ Before the workshop we wanted to provide some materials to help get folks famili
 ### Part 2: Applied Deep Learning to Computer Vision
 * Deep learning slides
 * **Activities:**
-  1. How to train your model [exercises](https://github.com/Crall-Lab/SICB2025_CV/tree/activity_testing/deepLearningNotebooks/1_training)
-  2. Let it fly (deploy on edge device) [exercises](https://github.com/Crall-Lab/SICB2025_CV/tree/activity_testing/pi_deepLearning)
-  3. Analysis [exercises](https://github.com/Crall-Lab/SICB2025_CV/tree/activity_testing/deepLearningNotebooks/3_analysis)
+  1. How to train your model [exercises](https://github.com/Crall-Lab/SICB2025_CV/tree/main/deepLearningNotebooks/1_training)
+  2. Let it fly (deploy on edge device) [exercises](https://github.com/Crall-Lab/SICB2025_CV/tree/main/deepLearningNotebooks/2_pi_deployment)
+  3. Analysis [exercises](https://github.com/Crall-Lab/SICB2025_CV/tree/main/deepLearningNotebooks/3_analysis)
 
