@@ -20,7 +20,7 @@ Before the workshop we wanted to provide some materials to help get folks famili
 * Classical CV on Raspberry Pi [exercises](https://github.com/Crall-Lab/SICB2025_CV/tree/main/pi_classicalCV)
 
 ### Part 2: Applied Deep Learning to Computer Vision
-* Deep learning slides
+* [Deep learning slides](https://docs.google.com/presentation/d/1AWOqTlG8QKLbhfT9U0MqPfiiNNIAX_74lV_4Utg6WAs/edit?usp=sharing)
 * **Activities:**
   1. How to train your model [exercises](https://github.com/Crall-Lab/SICB2025_CV/tree/main/deepLearningNotebooks/1_training)
   2. Let it fly (deploy on edge device) [exercises](https://github.com/Crall-Lab/SICB2025_CV/tree/main/deepLearningNotebooks/2_pi_deployment)
